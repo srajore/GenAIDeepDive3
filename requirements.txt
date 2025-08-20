@@ -2,3 +2,5 @@ openai
 python-dotenv
 langchain_openai
 langchain_ollama
+langchain-ollama
+langchain-google-genai
