@@ -6,3 +6,6 @@ langchain-ollama
 langchain-google-genai
 langchain_core
 langchain-aws
+huggingface_hub
+langchain-huggingface
+transformers
