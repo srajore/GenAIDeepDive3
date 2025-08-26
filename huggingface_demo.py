@@ -8,8 +8,7 @@ load_dotenv(override=True)
 
 # Basic Example (no streaming) with Mistral-Nemo-Base-2407 model using a third-party provider (Novita).
 llm = HuggingFaceEndpoint(
-    repo_id="openai/gpt-oss-120b",
-    #huggingfacehub_api_token="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"
+    repo_id="openai/gpt-oss-120b"
 )
 
 chat = ChatHuggingFace(llm=llm, verbose=True)
