@@ -9,3 +9,4 @@ langchain-aws
 huggingface_hub
 langchain-huggingface
 transformers
+gradio
