@@ -10,3 +10,6 @@ huggingface_hub
 langchain-huggingface
 transformers
 gradio
+langchain-community
+pypdf
+bs4
