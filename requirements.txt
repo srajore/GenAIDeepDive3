@@ -13,3 +13,4 @@ gradio
 langchain-community
 pypdf
 bs4
+langchain-chroma
